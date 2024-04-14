@@ -6,7 +6,7 @@ import numpy as np
 
 # Folder containing the source images
 source_folder = r"F:\shift test\gibbs\align"
-shift_values = (-2, 2, 0, -1, 1)
+shift_values = (-2, 2, -1, 1)
 
 for shift in shift_values:
 
